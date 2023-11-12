@@ -1,0 +1,32 @@
+table,th,td{
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+    padding: 20px 70px;
+    font-size: 20px;
+    padding-bottom: 20px;
+
+}
+
+th{
+    background-color: blue;
+    color: white;
+    
+}
+
+caption{
+    background-color: orange;
+   padding: 10px;
+   font-size: 20px;
+   width: 50%;
+   border-radius: 10px;
+   margin: auto;
+   color: white;
+}
+
+div{
+    margin-top: 40px;
+}
+
+table{
+    margin: auto;
+}
