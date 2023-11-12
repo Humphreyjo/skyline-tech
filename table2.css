@@ -32,3 +32,7 @@ button{
 tr:hover{
     background-color: gray;
 }
+table,th,tr,td{
+    border-bottom: 1px;
+    border-collapse: collapse;
+}
